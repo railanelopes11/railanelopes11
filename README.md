@@ -1,7 +1,6 @@
 ## Olá, meu nome é Railane!
 
 - 💻 Atualmente estou trabalhando no desenvolvimento de **sistemas back-end utilizando Python**, com foco em desempenho, organização e escalabilidade.
-- 📚 Estou aprimorando meus conhecimentos em **Python**, **Flask**, **FastAPI**, **SQL**, **arquitetura de APIs** e **boas práticas de desenvolvimento**.
 - ⌨️ Procuro colaborar em projetos de **desenvolvimento back-end**, **APIs REST**, **sistemas escaláveis** e **times que valorizem código limpo e bem estruturado**.
 - ❓ Estou procurando ajuda com **arquitetura de sistemas**, **boas práticas avançadas em back-end**, **testes**, **deploy** e **crescimento profissional na área de tecnologia**.
 - ⚡ Curiosidade: sou formada em Engenharia Mecatrônica e já atuei com robótica educacional, unindo tecnologia, ensino e programação para transformar aprendizado em prática.
