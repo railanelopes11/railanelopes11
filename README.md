@@ -37,17 +37,15 @@
 
 ---
 
-<h3 align="center">📬 Conecte-se comigo</h3>
+## 📬 Conecte-se comigo
 
-<p align="center">
-  <a href="mailto:railanelopes11@outlook.com">
-    <img src="https://img.shields.io/badge/Email-railanelopes11%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/railanelopes">
-    <img src="https://img.shields.io/badge/LinkedIn-Railane%20Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
+</div>
+   <br>
+   <a href="https://instagram.com/railane_lopes11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatorailanelopes20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/railanelopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
 
